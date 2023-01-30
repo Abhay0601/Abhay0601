@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhay0601
 - 👀 I’m interested in Full Stack Web Developer
-- 🌱 I’m currently learning PGDCA
+- 🌱 I’m currently pursuing MCA
 
 <!---
 Abhay0601/Abhay0601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
